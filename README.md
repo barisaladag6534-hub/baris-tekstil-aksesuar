@@ -2,14 +2,15 @@
 
 Canlı site: https://barisaladag6534-hub.github.io/baris-tekstil-aksesuar/
 
-Statik, mobil uyumlu tanıtım sitesi; GitHub Pages üzerinden ücretsiz yayımlanıyor.
+İletişim: [0534 241 00 78](tel:+905342410078) · [Instagram @baris_kaucuk_etikett](https://instagram.com/baris_kaucuk_etikett) · İstanbul, Merter.
 
-## İçerik
+Statik ve mobil uyumlu tanıtım sitesi; GitHub Pages üzerinden ücretsiz yayımlanıyor.
 
-- `index.html` — web sayfası
-- `assets/premium-kaucuk-etiket-koleksiyonu.webp` — optimize edilmiş koleksiyon görseli
+## Sayfalar ve varlıklar
 
-İletişim alanına gerçek e-posta adresinizi veya WhatsApp numaranızı ekleyin. Site statiktir ve şu an iletişim formu göndermez.
+- `index.html` — ana sayfa
+- `iletisim.html` — ayrı iletişim sayfası
+- `assets/site.css` — ortak lüks tasarım sistemi
+- `assets/` — koleksiyon görseli ve dört etiket yakın planı
 
 Görseldeki marka adları ve logolar tasarım örneğidir. Üretim, gerekli marka kullanım izinleri ve müşteri onayı doğrultusunda yapılmalıdır.
-
